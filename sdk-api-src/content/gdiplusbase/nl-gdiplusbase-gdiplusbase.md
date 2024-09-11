@@ -72,11 +72,8 @@ The <a href="/windows/desktop/api/gdiplusbase/nf-gdiplusbase-gdiplusbase-operato
 <a href="/windows/win32/api/gdiplusbase/nf-gdiplusbase-gdiplusbase-operatordelete_array">GdiplusBase::operator delete[]</a>
 </td>
 <td align="left" width="63%">
-The 
-		xref rid="_gdiplus_CLASS_GdiplusBase_operator_delete_bracket_in_pVoid_" qualify="0"/&gt; 
-		method deallocates memory for an array of GDI+ 
-		objects.
-
+The <a href="/windows/win32/api/gdiplusbase/nf-gdiplusbase-gdiplusbase-operatordelete_array">GdiplusBase::operator delete[]</a>
+method deallocates memory for an array of GDI+ objects.
 </td>
 </tr>
 <tr>
